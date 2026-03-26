@@ -10,7 +10,7 @@ Built for the **Builder Fund on Base**.
 
 ## 🌐 Live Demo
 
-🔗 **Frontend:** [Deploy on Vercel — link coming soon]
+🔗 **Frontend:** [https://base-event-notifier.vercel.app/]
 
 📄 **Contract on BaseScan:** [https://basescan.org/address/0x9E1086290dc05649A13B0af1Ae4e9A55F41CFC63](https://basescan.org/address/0x9E1086290dc05649A13B0af1Ae4e9A55F41CFC63)
 
