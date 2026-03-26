@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+artifacts/
+cache/
+out/
+
+# IDE
+.vscode/
+.idea/
